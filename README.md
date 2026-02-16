@@ -10,7 +10,7 @@ including cleaning missing values, filtering data, aggregation, and visualizatio
 
 #Files included
 The following Python file 
-Quesiton 1: Dta Manipulation using Pandas
+Quesiton 1: Data Manipulation using Pandas
 Question 2: Linear Regression using Scikit-Learn
 
 Two question in one Python
